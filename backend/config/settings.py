@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'sos.apps.SosConfig',
     'notifications.apps.NotificationsConfig',
     'escalation.apps.EscalationConfig',
+    "dashboard",
 ]
 
 MIDDLEWARE = [
